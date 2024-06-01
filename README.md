@@ -1,4 +1,4 @@
-# parser
+# Parser: Syntax Analyzer Using JS
 
 An Electron application with React
 
